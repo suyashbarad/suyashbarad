@@ -26,7 +26,7 @@
 
 ---
 
-## `~/` whoami
+## `~/` Who Am I?
 
 ```console
 $ cat about.txt
@@ -36,10 +36,12 @@ Hi, I'm **Suyash Barad**. A Computer Science undergraduate at
 **MIT-WPU, Pune** (B.Tech CSE, 2024–2028) who likes shipping things that
 actually run — APIs, pipelines, containers, and the occasional ESP32.
 
-- Currently building **[RentPilot AI](https://github.com/suyashbarad/rentpilot-ai)** — an AI-powered property management platform
-- Focused on **full-stack backend, DevOps and cloud** (Node.js, Docker, AWS, GitHub Actions)
-- Interested in **Software Engineering, DevOps and SRE** roles
-- Fun fact: **I once wrote a web application firewall in raw C++ sockets, just to see what HTTP really looks like on the wire.**
+- Currently building **[CleanGreen AI](https://github.com/suyashbarad/CleanGreen-AI)** — an AI-powered smart waste management platform
+
+* Built a **full-stack geospatial waste reporting system** with image-based waste analysis, location tracking and an administrative dashboard
+* Working with **Python, AI/ML, REST APIs, Leaflet, Gemini, DBSCAN and MCLP** to detect waste, identify hotspots and suggest optimal bin locations
+* Interested in **Software Engineering, AI/ML, DevOps and SRE** roles
+* Fun fact: **I built a system that turns a simple photo of garbage into a geo-tagged, AI-analyzed waste report with hotspot and bin-placement insights.**
 
 <br>
 
