@@ -4,25 +4,23 @@
      Colour mode, so one file serves both GitHub themes. Regenerate with:
        python scripts/dotify.py assets/jacket.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color -->
-<img src="assets/portrait.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">
+<img src="assets/portrait.svg" width="300" alt="Suyash Barad, rendered as a dot matrix">
 
 <br>
 
 <!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/gargibhardwaj24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+<a href="https://github.com/suyashbarad">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Suyash+Barad;Full-Stack+Backend+%26+DevOps;Cloud%2C+Docker+%26+CI%2FCD;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/gargibhardwaj24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:gargibhardwaj2430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/gargibhardwaj24"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/gargibhardwaj24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://linkedin.com/in/suyash-barad-796b6534b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:baradsuyash4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/suyashbarad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=suyashbarad&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -34,13 +32,14 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
+Hi, I'm **Suyash Barad**. A Computer Science undergraduate at
+**MIT-WPU, Pune** (B.Tech CSE, 2024–2028) who likes shipping things that
+actually run — APIs, pipelines, containers, and the occasional ESP32.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
-- Learning **React + Machine Learning**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
+- Currently building **[RentPilot AI](https://github.com/suyashbarad/rentpilot-ai)** — an AI-powered property management platform
+- Focused on **full-stack backend, DevOps and cloud** (Node.js, Docker, AWS, GitHub Actions)
+- Interested in **Software Engineering, DevOps and SRE** roles
+- Fun fact: **I once wrote a web application firewall in raw C++ sockets, just to see what HTTP really looks like on the wire.**
 
 <br>
 
@@ -48,7 +47,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,nodejs,express,mysql,redis,docker,aws,githubactions,linux,html,css,git,github,vercel,postman,vscode&perline=10" alt="tech stack">
 
 </div>
 
@@ -98,9 +97,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/suyashbarad/suyashbarad/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suyashbarad/suyashbarad/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/suyashbarad/suyashbarad/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
@@ -141,40 +140,60 @@ and I solve problems for fun when neither of those is cooperating.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/suyashbarad/rentpilot-ai">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-rentpilot-ai-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-rentpilot-ai-light.svg">
+      <img src="assets/card-rentpilot-ai-dark.svg" width="420" alt="rentpilot-ai">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/suyashbarad/WAF_project">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-WAF_project-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-WAF_project-light.svg">
+      <img src="assets/card-WAF_project-dark.svg" width="420" alt="WAF_project">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+  <a href="https://github.com/suyashbarad/CleanGreen-AI">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
-      <img src="assets/card-Socrates-dark.svg" width="420" alt="Socrates">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-CleanGreen-AI-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-CleanGreen-AI-light.svg">
+      <img src="assets/card-CleanGreen-AI-dark.svg" width="420" alt="CleanGreen-AI">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
+  <a href="https://github.com/suyashbarad/satellite-srm">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
-      <img src="assets/card-humanOS-dark.svg" width="420" alt="humanOS">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-satellite-srm-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-satellite-srm-light.svg">
+      <img src="assets/card-satellite-srm-dark.svg" width="420" alt="satellite-srm">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/suyashbarad/Temperature-controller">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Temperature-controller-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Temperature-controller-light.svg">
+      <img src="assets/card-Temperature-controller-dark.svg" width="420" alt="Temperature-controller">
+    </picture>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/suyashbarad/Air-Mouse">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Air-Mouse-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Air-Mouse-light.svg">
+      <img src="assets/card-Air-Mouse-dark.svg" width="420" alt="Air-Mouse">
     </picture>
   </a>
 </td>
@@ -183,12 +202,12 @@ and I solve problems for fun when neither of those is cooperating.
 
 <sub>
 
-| project | live | stack |
+| also on the shelf | what it is | stack |
 |---|---|---|
-| **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[ISRO-AQI-Intelligence](https://github.com/suyashbarad/ISRO-AQI-Intelligence)** | Air-quality intelligence on ISRO satellite data | `Python` `AI` |
+| **[AI-text-analyzer](https://github.com/suyashbarad/AI-text-analyzer)** | Text analysis powered by NLP | `Python` `NLP` |
+| **[warehouse-management-system](https://github.com/suyashbarad/warehouse-management-system)** | Warehouse management web app (Software Engineering project) | `React` `Flask` |
+| **[DSA_Daily](https://github.com/suyashbarad/DSA_Daily)** | Multi-day C/C++ data-structures practice log | `C++` `C` |
 
 </sub>
 

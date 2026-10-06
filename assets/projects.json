@@ -1,21 +1,29 @@
 {
-  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description. Setting descriptions on GitHub too is worth doing - it helps anyone browsing your repo list.",
   "projects": [
     {
-      "repo": "dossier",
-      "description": "An immersive design-engineering portfolio. Fluid scroll inertia, geometric morphing, and typography that bends toward your cursor."
+      "repo": "rentpilot-ai",
+      "description": "Full-stack AI property-management platform. Buildings, tenants, rent, complaints and dashboards behind JWT-secured REST APIs, with Docker, CI/CD and Gemini-powered insights."
     },
     {
-      "repo": "Sage",
-      "description": "A local-first calendar that shapes your week around six productivity frameworks, with an assistant that plans according to the method you pick."
+      "repo": "WAF_project",
+      "description": "A lightweight web application firewall in raw C++ sockets. Inspects HTTP traffic, blocks SQLi/XSS, rate-limits abusive clients, and reverse-proxies safe requests."
     },
     {
-      "repo": "Socrates",
-      "description": "Learn by teaching. Explain a concept to the AI, get caught on the parts you only half-understand, and prove you actually know it."
+      "repo": "CleanGreen-AI",
+      "description": "AI-driven waste management and segregation web platform, deployed on Vercel."
     },
     {
-      "repo": "humanOS",
-      "description": "A gamified operating system for your life. Goals as interactive orbits, habit and mood tracking, and Gemini breaking objectives into daily tasks."
+      "repo": "satellite-srm",
+      "description": "Deep-learning super-resolution for enhancing medium-resolution satellite imagery."
+    },
+    {
+      "repo": "Temperature-controller",
+      "description": "Embedded temperature control loop: Arduino, DHT11 sensor and motor-driver actuation."
+    },
+    {
+      "repo": "Air-Mouse",
+      "description": "Wireless air mouse on ESP32 + MPU6050 that turns hand motion into cursor control."
     }
   ]
 }
